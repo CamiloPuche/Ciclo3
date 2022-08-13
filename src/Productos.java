@@ -17,5 +17,6 @@ public class Productos {
     public Productos(String productos, int Precio) {
         this.productos = productos;
         this.Precio = Precio;
+        System.out.println("Hola Mundo");
     }
 }
